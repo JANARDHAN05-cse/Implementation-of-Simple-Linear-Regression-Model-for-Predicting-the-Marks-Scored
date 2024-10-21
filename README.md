@@ -9,10 +9,15 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Algorithm
 1.Import the standard libraries.
+
 2.Set variables for assigning dataset values.
+
 3.Import linear regression from sklearn.
+
 4.Assign the points for representing in the graph.
+
 5.Predict the regression for marks by using the representation of the graph.
+
 6.Compare the graphs and hence we obtained the linear regression for the given datas.
 
 
@@ -111,10 +116,10 @@ plt.show()
 
 
 ## Output:
-![Screenshot 2024-10-18 094055](https://github.com/user-attachments/assets/aab52013-f354-44b5-97f6-506987bedf82)
-![Scree![Screenshot 2024-10-18 094158](https://github.com/user-attachments/assets/e72b4da0-b05f-4e04-88c8-26d2d15f23aa)
-nshot 20![Screenshot 2024-10-18 094211](https://github.com/user-attachments/assets/64500aff-2fd5-4b36-b52b-3a9dae96d3c6)
-24-10-18 094131](https://github.com/user-attachments/assets/14f9fab2-d63d-460c-9bb7-1769383303c3)
+![Screenshot 2024-10-18 094055](https://github.com/user-attachments/assets/a3572c73-de53-4c5a-a60b-ea7b59b4ee2c)
+![Screenshot 2024-10-18 094131](https://github.com/user-attachments/assets/33bfbe24-61ac-4de6-a0d6-6caee3c8e489)
+![Screenshot 2024-10-18 094158](https://github.com/user-attachments/assets/06b9297d-2456-41d4-b52a-8f1fe2b28aa0)
+![Screenshot 2024-10-18 094211](https://github.com/user-attachments/assets/9708309d-a0ec-40cb-a4e3-28be99e10701)
 
 
 
