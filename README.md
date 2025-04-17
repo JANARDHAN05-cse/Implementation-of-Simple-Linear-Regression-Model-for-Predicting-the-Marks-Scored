@@ -22,6 +22,9 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Program:
 ```
+Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
+Developed by: P Janardhan
+RegisterNumber:  212224040128
 import numpy as np
 import matplotlib.pyplot as plt
 x = np.array(eval(input()))
